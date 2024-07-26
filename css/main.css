@@ -1,6 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
 body {
-
-}
+    background-color: #3B1C55;
+    width: 100%;}
 main {
-    
+    background-color: #F2C6BD;
+    margin-top: 100px;
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
 }
+.logo_box {
+    display: flex;
+    margin-right: 450px;
+    margin-left: 50px;}
+.pbox {
+    display: flex;
+    flex-direction: column;}
