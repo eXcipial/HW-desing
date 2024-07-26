@@ -12,6 +12,7 @@
     padding: 10px 20px;
     background-color: #3341C8;
     width: 120px;
+    height: 40px;
     color: white;
     text-wrap: center;
 text-decoration: none;}
@@ -28,7 +29,7 @@ text-decoration: none;}
 .buttonszone a:last-child:hover {
     background-color: #3341C8;
     color: white;
-    width: 120px;}
+    width: 120px;} 
 .buttonszone a:last-child:active {
     background-color: #3341C8;
     color: white;
