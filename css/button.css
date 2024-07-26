@@ -1,0 +1,20 @@
+.link {
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    padding: 5px;}
+.link:hover {
+    font-weight: bold;
+    padding:  4px;}
+.link:active {
+    font-weight: bold;}
+.button {
+    padding: 10px 20px;
+    background-color: #3341C8;
+    width: 120px;
+    color: white;
+    text-wrap: center;}
+.button:hover {
+    color: #3341C8;
+    background-color: white;}
+
