@@ -17,4 +17,19 @@
 .button:hover {
     color: #3341C8;
     background-color: white;}
+.buttonszone {
+    display: flex;
+    gap: 10px;}
+.buttonszone button:last-child {
+    color: #3341C8;
+    background-color: white;}
+   
+.buttonszone button:last-child:hover {
+    background-color: #3341C8;
+    color: white;
+    width: 120px;}
+.buttonszone button:last-child:active {
+    background-color: #3341C8;
+    color: white;
+    width: 120px;}
 
