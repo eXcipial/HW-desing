@@ -2,10 +2,10 @@
     text-decoration: none;
     font-size: 14px;
     color: black;
-    padding: 5px;}
+    width: 40px;
+    height: 15px;}
 .link:hover {
-    font-weight: bold;
-    padding:  4px;}
+    font-weight: bold;}
 .link:active {
     font-weight: bold;}
 .button {
@@ -13,22 +13,23 @@
     background-color: #3341C8;
     width: 120px;
     color: white;
-    text-wrap: center;}
+    text-wrap: center;
+text-decoration: none;}
 .button:hover {
     color: #3341C8;
     background-color: white;}
 .buttonszone {
     display: flex;
-    gap: 10px;}
-.buttonszone button:last-child {
+    gap: 15px;}
+.buttonszone a:last-child {
     color: #3341C8;
     background-color: white;}
    
-.buttonszone button:last-child:hover {
+.buttonszone a:last-child:hover {
     background-color: #3341C8;
     color: white;
     width: 120px;}
-.buttonszone button:last-child:active {
+.buttonszone a:last-child:active {
     background-color: #3341C8;
     color: white;
     width: 120px;}
