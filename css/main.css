@@ -12,7 +12,7 @@ main {
     width: 800px;
     margin-left: calc((100% - 800px) / 2);
     position: relative;
-    height: 80vh;
+    height: 520px;
     padding-top: 20px;}
 .header {
     display: flex;
